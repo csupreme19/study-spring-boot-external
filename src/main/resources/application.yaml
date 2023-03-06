@@ -1,0 +1,15 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: dev
+#url: localhost
+#username: localuser
+#passwrod: localpassword
+#---
+#spring:
+#  config:
+#    activate:
+#      on-profile: prod
+#url: prodhost
+#username: produser
+#passwrod: prodpassword
